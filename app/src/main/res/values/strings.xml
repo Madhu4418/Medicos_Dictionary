@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Medicos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_indexpage">Index page</string>
+    <string name="title_activity_dictionary">Dictionary</string>
+    <string name="title_activity_contactus">Contact us</string>
+    <string name="title_activity_aboutapp">About app</string>
+    <string name="title_activity_search">Search for Disease/Condition</string>
+    <string name="title_activity_pharmacy">Search for nearest Pharmacy</string>
+    <string name="title_activity_maps">Pharmacy near you</string>
+</resources>
